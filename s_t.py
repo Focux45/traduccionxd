@@ -15,8 +15,8 @@ from gtts import gTTS
 from googletrans import Translator
 
 
-st.title("TRADUCTOR.")
-st.subheader("Escucho lo que quieres traducir.")
+st.title("Detector de Franceses.")
+st.subheader("Vamos a descubrir si eres parisino.")
 
 
 image = Image.open('napoleon.jpg')
